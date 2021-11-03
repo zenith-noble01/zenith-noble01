@@ -1,14 +1,14 @@
 ### Hello World, It' Zentih 👋
 
 
-<a href="https://twitter.com/zenith_noble/">
-<img align="left" alt="Fotie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://web.facebook.com/etongo.zenith.9/">
+<img align="left" alt="Zedmiles Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/zenith-noble-2237b7216/">
-<img align="left" alt="Fotie Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Zedmiles Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/zenithnoble/">
-<img align="left" alt="Fotie Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Zedmiles Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 
@@ -44,4 +44,4 @@ Hi, I'm Zenith🙌, an amateur in the fullstack fiels. Apart from that I love ge
 ### Graph stats :
 [![Zenith's github activity graph](https://activity-graph.herokuapp.com/graph?username=zenith-noble01&theme=xcode)](https://github.com/FotieMConstant)
 
-<img src="https://github-readme-stats.vercel.app/api?username=zenith-noble01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenith-noble01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
