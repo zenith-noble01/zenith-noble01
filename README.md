@@ -30,13 +30,3 @@ Hi, I'm Zenith🙌, an amateur in the fullstack field. Apart from that I love ge
 - Google Africa Developer
 - TiC dev
 
-
-
-
-
-
-
-### Graph stats :
-[![Zenith's github activity graph](https://activity-graph.herokuapp.com/graph?username=zenith-noble01&theme=xcode)](https://github.com/zenith-noble01)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenith-noble01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
