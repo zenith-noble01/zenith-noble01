@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/zenith-noble-2237b7216/">
 <img align="left" alt="Zedmiles Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/zenithnoble/">
+<a href="https://www.instagram.com/code_env/">
 <img align="left" alt="Zedmiles Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
@@ -23,16 +23,11 @@ Hi, I'm Zenith🙌, an amateur in the fullstack field. Apart from that I love ge
 
 **Info:**
 
-- 🔭 I’m currently working on <a href="https://mevick-2.vercel.app/" >Management system </a> 
-- 🌱 I’m currently learning React and Angular
-- 👯 Part of Google Africa developer Schoolarship
-- 💬 Ask me about my Mangenemt system I'll be will to tell you
-- 📫 How to reach me: On Social media as Zenith noble
+- 🔭 I’m currently working on <a href="https://youtube.com/@codeenv" >My YOUTUBE CHANNEL</a> 
 
 **Community**
 
 - Google Africa Developer
-- Pteco 
 - TiC dev
 
 
