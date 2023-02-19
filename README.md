@@ -15,8 +15,4 @@
 <br />
 
 
-Hi, I'm Zenith🙌, an amateur in the fullstack field. Apart from that I love getting involved in Competitive Programming and Problem Solving like TiC summit and the Google Africa developer scholarship program.❤✌ i am also passionate about Ui/UX designing, Electricity, and solving community problems using tech. Some technologies I enjoy working with include ReactJS, VueJS (JavaScript, APIs + ), C++. I also love Learning by teaching others that's why I have a youtube  <a href="https://youtube.com/@codeenv"  target="_blank" rel="noreferrer" >CodeEnv</a> where I further my knowledge by helping others. 
-
- <img align="center" width="300px" alt="GIF" src="https://media0.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
- 
-
+Hi, I'm Zenith🙌, an amateur in the fullstack field. Apart from that I love getting involved in Competitive Programming and Problem Solving like TiC summit and the Google Africa developer scholarship program.❤✌ i am also passionate about Ui/UX designing, Electricity, and solving community problems using tech. Some technologies I enjoy working with include ReactJS, VueJS (JavaScript, APIs + ), C++. I also love Learning by teaching others that's why I have a youtube  <a href="https://youtube.com/@codeenv"  target="_blank" rel="noreferrer" >CodeEnv</a> where I further my knowledge by helping others.
